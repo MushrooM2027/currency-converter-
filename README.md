@@ -1,2 +1,2 @@
 # currency-converter-
-This is a basic currency converter that converts Euro to Inr and Inr to Euro
+This is a basic currency converter app that converts Euro to Inr and Inr to Euro.
